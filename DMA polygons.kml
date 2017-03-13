@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<NetworkLink>
+<name><![CDATA[DMA polygons]]></name>
+<Link>
+<href>
+https://fusiontables.google.com/exporttable?query=select+col4+from+1tRBNa1Hpa_vwj9L5b9bJG49TtMEB_Wn7QwXw5DKL&amp;o=kmllink&amp;g=col4&amp;styleId=2&amp;templateId=3</href>
+</Link>
+</NetworkLink>
+</kml>
